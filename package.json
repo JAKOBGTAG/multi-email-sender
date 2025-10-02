@@ -1,0 +1,73 @@
+{
+  "name": "@prathammahajan/multi-email-sender",
+  "version": "1.0.0",
+  "description": "🚀 Enterprise-grade Node.js email automation with intelligent retry logic, smart rate limiting, template engine, and comprehensive analytics. Perfect for bulk campaigns, transactional emails, and marketing automation.",
+  "main": "src/index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "keywords": [
+    "email-automation",
+    "bulk-email-sender",
+    "nodemailer-wrapper",
+    "email-campaigns",
+    "transactional-emails",
+    "email-marketing",
+    "smtp-client",
+    "email-templates",
+    "rate-limiting",
+    "retry-logic",
+    "email-analytics",
+    "gmail-sender",
+    "outlook-sender",
+    "email-queue",
+    "email-monitoring",
+    "email-validation",
+    "email-logging",
+    "email-statistics",
+    "email-performance",
+    "enterprise-email"
+  ],
+  "author": {
+    "name": "Pratham Mahajan",
+    "email": "mahajanpratham88@gmail.com",
+    "url": "https://github.com/prathammahajan13",
+    "buyMeACoffee": "https://buymeacoffee.com/mahajanprae"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prathammahajan13/multi-email-sender.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prathammahajan13/multi-email-sender/issues"
+  },
+  "homepage": "https://github.com/prathammahajan13/multi-email-sender#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "lint": "eslint src/",
+    "lint:fix": "eslint src/ --fix",
+    "build": "npm run lint",
+    "prepublishOnly": "npm run build"
+  },
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://buymeacoffee.com/mahajanprae"
+  }
+}
