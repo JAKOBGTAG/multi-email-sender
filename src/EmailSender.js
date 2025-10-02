@@ -260,7 +260,7 @@ export class EmailSender {
    * @private
    */
   _initializeTransporter() {
-    this.transporter = nodemailer.createTransporter({
+    this.transporter = nodemailer.createTransport({
       service: this.config.email.service,
       auth: this.config.email.auth,
       host: this.config.email.host,
